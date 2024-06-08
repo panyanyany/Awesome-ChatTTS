@@ -8,6 +8,22 @@
 - https://huggingface.co/spaces/markmagic/ChatTTS
 - https://huggingface.co/spaces/Hilley/ChatTTS-OpenVoice
 
+## 已知的赚钱方法
+<details>
+<summary>淘宝卖安装服务（如图）</summary>  
+
+![alt](./images/01.png)
+
+</details>
+
+<details>
+<summary>卖API</summary> 
+</details>
+
+<details>
+<summary>制作在线工具，收订阅费</summary> 
+</details>
+
 ## 教程
 - [ChatTTS增强版整合包,增强音质、批量处理、固定音色、支持长文本(WIN、MAC)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pM4m1z7h9/?vd_source=6773fc664ee1e277b8a2290d66ebb7a3)
 - [ChatTTS 最强文本转语音！一键本地安装，100%成功！效果逼真如真人，完全免费开源！！| 零度解说_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wT421v7ZN/?vd_source=6773fc664ee1e277b8a2290d66ebb7a3)
