@@ -1,6 +1,6 @@
 # ChatTTS 资源库
 
-[toc]
+欢迎提交 PR 或 Issue，分享 ChatTTS 相关资源。
 
 ## 在线体验
 - https://chattts.in/
