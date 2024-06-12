@@ -42,6 +42,7 @@
 - https://github.com/yuanquderzi/ChatTTS-Deployment-using-FastAPI-and-Streamlit 使用 FastAPI、Streamlit本地部署ChatTTS文本转语音模型，并通过 Docker Compose 进行容器化部署。
 
 ## 开源项目-Windows版
+- https://www.youtube.com/watch?v=UdUkN8qPzPM chatTTS三合一升级版，多人对话、固定音色、长音频功能，自带多种音色！（支持mac）
 - https://github.com/jianchang512/ChatTTS-ui 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 - https://github.com/6drf21e/ChatTTS_colab 一键部署（含离线整合包）！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
 
